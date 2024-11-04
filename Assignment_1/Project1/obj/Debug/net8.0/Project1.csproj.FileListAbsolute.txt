@@ -1,0 +1,64 @@
+/Users/jishansaha/Downloads/class files/last file/Project1/bin/Debug/net8.0/appsettings.Development.json
+/Users/jishansaha/Downloads/class files/last file/Project1/bin/Debug/net8.0/appsettings.json
+/Users/jishansaha/Downloads/class files/last file/Project1/bin/Debug/net8.0/Project1
+/Users/jishansaha/Downloads/class files/last file/Project1/bin/Debug/net8.0/Project1.deps.json
+/Users/jishansaha/Downloads/class files/last file/Project1/bin/Debug/net8.0/Project1.runtimeconfig.json
+/Users/jishansaha/Downloads/class files/last file/Project1/bin/Debug/net8.0/Project1.dll
+/Users/jishansaha/Downloads/class files/last file/Project1/bin/Debug/net8.0/Project1.pdb
+/Users/jishansaha/Downloads/class files/last file/Project1/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/jishansaha/Downloads/class files/last file/Project1/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jishansaha/Downloads/class files/last file/Project1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jishansaha/Downloads/class files/last file/Project1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/Project1.csproj.AssemblyReference.cache
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/Project1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/Project1.AssemblyInfoInputs.cache
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/Project1.AssemblyInfo.cs
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/Project1.csproj.CoreCompileInputs.cache
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/Project1.MvcApplicationPartsAssemblyInfo.cs
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/Project1.MvcApplicationPartsAssemblyInfo.cache
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/staticwebassets/msbuild.Project1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/staticwebassets/msbuild.build.Project1.props
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Project1.props
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Project1.props
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/scopedcss/bundle/Project1.styles.css
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/Project1.csproj.Up2Date
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/Project1.dll
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/refint/Project1.dll
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/Project1.pdb
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/Project1.genruntimeconfig.cache
+/Users/jishansaha/Downloads/class files/last file/Project1/obj/Debug/net8.0/ref/Project1.dll
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/bin/Debug/net8.0/appsettings.Development.json
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/bin/Debug/net8.0/appsettings.json
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/bin/Debug/net8.0/Project1
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/bin/Debug/net8.0/Project1.deps.json
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/bin/Debug/net8.0/Project1.runtimeconfig.json
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/bin/Debug/net8.0/Project1.dll
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/bin/Debug/net8.0/Project1.pdb
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/Project1.csproj.AssemblyReference.cache
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/Project1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/Project1.AssemblyInfoInputs.cache
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/Project1.AssemblyInfo.cs
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/Project1.csproj.CoreCompileInputs.cache
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/Project1.MvcApplicationPartsAssemblyInfo.cs
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/Project1.MvcApplicationPartsAssemblyInfo.cache
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/staticwebassets/msbuild.Project1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/staticwebassets/msbuild.build.Project1.props
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Project1.props
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Project1.props
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/scopedcss/bundle/Project1.styles.css
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/Project1.csproj.Up2Date
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/Project1.dll
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/refint/Project1.dll
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/Project1.pdb
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/Project1.genruntimeconfig.cache
+/Users/jishansaha/Documents/web_dev_1/back end dev 1/Assignment_1/Project1/obj/Debug/net8.0/ref/Project1.dll
